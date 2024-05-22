@@ -19,7 +19,6 @@ The program parses standard cron expression, so it should have 5 parameters: min
 
 
 
-
 The output should be in the following format:
 
 ```
