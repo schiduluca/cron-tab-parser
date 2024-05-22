@@ -22,7 +22,7 @@ The program parses standard cron expression, so it should have 5 parameters: min
 
 The output should be in the following format:
 
-``
+```
 minute        0 15 30 45
 hour          0
 day of month  1 15
